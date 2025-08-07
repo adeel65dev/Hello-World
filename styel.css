@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(243, 243, 245);
+    color: rgb(3, 3, 22);
+}
+td{
+    border: 3px solid rgba(12, 8, 239, 0.922);
+}
+th{
+    border: 2px solid rgb(18, 11, 1);
+}
+caption{
+    border: 5px solid rgb(18, 11, 1);
+}
+table{
+    border: 5px solid rgb(27, 7, 88);
+}
+p{
+    background-color: brown;
+}
+
